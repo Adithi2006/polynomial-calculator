@@ -3,7 +3,8 @@
 A simple, browser‑based **Polynomial Calculator** built using **HTML, CSS, and JavaScript**.  
 It allows users to input polynomial coefficients and evaluate the polynomial at a given value of x.  
 The interface is clean, responsive, and easy to use.
-
+VISIT THE APPLICATION : 
+**https://adithi2006.github.io/polynomial-calculator/**
 ---
 
 ## ✨ Features
